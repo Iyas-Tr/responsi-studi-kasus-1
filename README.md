@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Irharsy Tara Prasetya  
+NIU : 460547
+Sesi : Siang  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
